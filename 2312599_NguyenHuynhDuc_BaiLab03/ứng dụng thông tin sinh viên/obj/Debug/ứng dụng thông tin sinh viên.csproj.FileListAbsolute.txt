@@ -1,0 +1,31 @@
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\ứng dụng thông tin sinh viên.exe.config
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\ứng dụng thông tin sinh viên.exe
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\ứng dụng thông tin sinh viên.pdb
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\Newtonsoft.Json.dll
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\Newtonsoft.Json.xml
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.csproj.AssemblyReference.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng_dụng_thông_tin_sinh_viên.Form1.resources
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng_dụng_thông_tin_sinh_viên.frmTimKiem.resources
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng_dụng_thông_tin_sinh_viên.Properties.Resources.resources
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.csproj.GenerateResource.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.csproj.CoreCompileInputs.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\_ng d_ng.D407D5E3.Up2Date
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.exe
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.pdb
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.exe.config
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\ứng dụng thông tin sinh viên.exe.config
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\ứng dụng thông tin sinh viên.exe
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\ứng dụng thông tin sinh viên.pdb
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\Newtonsoft.Json.dll
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\Newtonsoft.Json.xml
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.csproj.AssemblyReference.cache
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.exe.config
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng_dụng_thông_tin_sinh_viên.Form1.resources
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng_dụng_thông_tin_sinh_viên.frmTimKiem.resources
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng_dụng_thông_tin_sinh_viên.Properties.Resources.resources
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.csproj.GenerateResource.cache
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.csproj.CoreCompileInputs.cache
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\_ng d_ng.D407D5E3.Up2Date
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.exe
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\obj\Debug\ứng dụng thông tin sinh viên.pdb
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\ứng dụng thông tin sinh viên\bin\Debug\student.txt

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<book ISBN="978-0321765723">
+		<title>A Programmer's Guide to ADO.Net using C#</title>
+		<author>
+			<first-name>Mashesh</first-name>
+			<last-name>Chad</last-name>
+		</author>
+		<price>59.99</price>
+	</book>
+	<book ISBN="978-0735667457">
+		<title>CLR via C#</title>
+		<author>
+			<first-name>Jeffrey</first-name>
+			<last-name>Richter</last-name>
+		</author>
+		<price>49.99</price>
+	</book>
+</catalog>

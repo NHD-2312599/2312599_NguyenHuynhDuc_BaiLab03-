@@ -1,0 +1,22 @@
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.exe.config
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.exe
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.pdb
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Đọc File Xml.csproj.AssemblyReference.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.exe.config
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài_tập_3.FormĐọcFileXML.resources
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài_tập_3.Properties.Resources.resources
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Đọc File Xml.csproj.GenerateResource.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Đọc File Xml.csproj.CoreCompileInputs.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.exe
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.pdb
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.exe.config
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.exe
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.pdb
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Đọc File Xml.csproj.AssemblyReference.cache
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.exe.config
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài_tập_3.FormĐọcFileXML.resources
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài_tập_3.Properties.Resources.resources
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Đọc File Xml.csproj.GenerateResource.cache
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Đọc File Xml.csproj.CoreCompileInputs.cache
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.exe
+C:\2312599_NguyenHuynhDuc_BaiLab03\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.pdb

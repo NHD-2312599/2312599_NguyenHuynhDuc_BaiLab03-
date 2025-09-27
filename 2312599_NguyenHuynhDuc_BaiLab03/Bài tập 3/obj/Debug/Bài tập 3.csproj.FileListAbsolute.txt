@@ -1,0 +1,11 @@
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.csproj.AssemblyReference.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài_tập_3.Properties.Resources.resources
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.csproj.GenerateResource.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.csproj.CoreCompileInputs.cache
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.exe.config
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.exe
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\bin\Debug\Bài tập 3.pdb
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.exe
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.pdb
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài tập 3.exe.config
+D:\Lập trình\2312599_NguyenHuynhDuc_BaiLab03\Bài tập 3\obj\Debug\Bài_tập_3.FormĐọcFileXML.resources
